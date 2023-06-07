@@ -130,7 +130,6 @@ In order to run this project you need:
 - **Webpacker and Asset Pipeline Integration.**
 - **React-Rails Gem.**
 - **React Router.**
-- **Authentication and Authorization.**
 - **State Management (Redux or React Context API).**
 - **Form Handling (Formik or React Hook Form).**
 - **Connect to the Database.**
