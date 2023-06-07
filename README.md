@@ -131,7 +131,6 @@ In order to run this project you need:
 - **React-Rails Gem.**
 - **React Router.**
 - **State Management (Redux or React Context API).**
-- **Form Handling (Formik or React Hook Form).**
 - **Connect to the Database.**
 - **Add API endpoits.**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
