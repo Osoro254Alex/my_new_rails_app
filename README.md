@@ -123,6 +123,20 @@ In order to run this project you need:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## :telescope: Future Features <a name="future-features"></a>
+
+- **Webpacker and Asset Pipeline Integration.**
+- **React-Rails Gem.**
+- **React Router.**
+- **Authentication and Authorization.**
+- **State Management (Redux or React Context API).**
+- **Form Handling (Formik or React Hook Form).**
+- **Connect to the Database.**
+- **Add API endpoits.**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
